@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hadeel Hamam</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+<h3 align="center">A Front-End developer from Egypt</h3>
 <img align="right" alt="Developer" width="400" src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadeel-hamam&label=Profile%20views&color=0e75b6&style=flat" alt="hadeel-hamam" /> </p>
